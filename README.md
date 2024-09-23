@@ -4,7 +4,8 @@
 - 💞️ I’m not looking to collaborate with anyone
 - 📫 How to reach me by walk
 - 😄 Pronouns: she/her
-- ⚡ Fun fact:  
+- ⚡ Fun fact: im humanbegin
+-  
 
 <!---
 ankitha-ai/ankitha-ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
