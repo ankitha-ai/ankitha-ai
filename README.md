@@ -1,4 +1,3 @@
-<center>To know more about me
 - 👋 Hi, I’m @ankitha-ai
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning programming courses
